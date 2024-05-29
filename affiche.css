@@ -1,0 +1,10 @@
+body{
+    background-image: url('fond.jpg');
+}
+h2, h4{
+    color: maroon;
+    text-align: center;
+}
+h4{
+    margin-top: 20%;
+}

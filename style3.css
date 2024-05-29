@@ -1,0 +1,16 @@
+table{
+    border-style: hidden;
+   height: 400px;
+   width: 300px;
+   background-color:white;
+   width: 40%;
+   height: 60%;
+   text-align: center;
+   font-size: 18px;
+}
+#IG{
+    background-color: yellow;
+}
+#GRH{
+    background-color: aquamarine;
+}
